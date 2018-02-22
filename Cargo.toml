@@ -1,0 +1,7 @@
+[package]
+name = "basic-game"
+version = "0.1.0"
+authors = ["ocampogeric <ocampogeric@gmail.com>"]
+
+[dependencies]
+termion = "1"
